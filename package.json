@@ -1,7 +1,7 @@
 {
   "name": "sixstudio-music-bot",
-  "version": "2.0.0",
-  "description": "SixStudio Premium Music Bot v2 - Ultimate Edition",
+  "version": "3.0.0",
+  "description": "SixStudio Premium Music Bot v3",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -11,8 +11,8 @@
     "@discordjs/voice": "^0.16.0",
     "discord.js": "^14.13.0",
     "dotenv": "^16.3.1",
-    "youtube-dl-exec": "^2.4.13",
-    "yt-search": "^2.10.4",
+    "youtube-search-api": "^1.2.1",
+    "ytdl-core": "^4.11.5",
     "ffmpeg-static": "^5.2.0",
     "libsodium-wrappers": "^0.7.11"
   },
